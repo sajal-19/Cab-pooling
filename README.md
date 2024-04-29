@@ -51,6 +51,7 @@ Insert icons such as 🏠, 🚗, ⭐, 🚀, etc., alongside relevant headings to
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
 - **Database**: SQL
+- Other way - Java
 
 ## Contributing 🤝
 
